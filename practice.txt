@@ -1,1 +1,3 @@
 Welcoome on board
+
+This is me practicing what i've learnt on git today ~ 27 July 2023 @Codeclan
